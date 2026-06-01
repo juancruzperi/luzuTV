@@ -1157,5 +1157,16 @@ body {
         height: 48px;
     }
 }
+@media (min-width: 768px) and (max-width: 1500px) {
+    .portada-button {
+        top: 85%;
+        left: 23%;
+        padding: 16px 58px;
+        font-size: 32px;
+        border-radius: 10px;
+        color: #000 !important;
+        -webkit-text-fill-color: #000 !important;
+    }
+}
 
 /* FIN MEDIA QUERIES */
